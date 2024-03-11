@@ -3,3 +3,4 @@ feature2un altra fix
 feature3a
 feature4bugfix
 feature5abc
+feature6
