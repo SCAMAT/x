@@ -1,7 +1,1 @@
-feature1
-feature2un altra fix
-feature3a
-feature4bugfix
-feature5abc
-feature6
-feature7sistemata
+riaprto da a
